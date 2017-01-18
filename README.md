@@ -8,6 +8,7 @@
 - [Introduction](#introduction)
 - [Development](#development)
   - [Custom Views](#custom-views)
+  - [WebView](#webview)
 - [Testing](#testing)
   - [Automated Testing](#automated-testing)
   - [UI Testing](#ui-testing)
@@ -23,6 +24,9 @@
 
 #### Custom Views
 * [Android: draw a custom view](https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.trqqx4ftc) by Roman Danylyk
+
+#### WebView
+* [All about Android WebView](http://tutorials.jenkov.com/android/android-web-apps-using-android-webview.html) by Jakob Jenkov
 
 ## Testing
 
